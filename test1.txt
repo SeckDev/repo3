@@ -1,0 +1,10 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 2800-8A08
+
+ R‚pertoire de C:\Users\asus\Desktop\MyProject
+
+24/10/2018  09:38    <DIR>          .
+24/10/2018  09:38    <DIR>          ..
+24/10/2018  09:38                 0 test1.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)  74ÿ042ÿ298ÿ368 octets libres
